@@ -19,7 +19,7 @@ app.use('/orders', orderRoutes)
 app.use('/address', addressRoutes)
 
 app.listen(process.env.PORT, () => {
-	console.log(`El servidor está corriendo en ${process.env.PORT}`)
+	
 })
 
 
