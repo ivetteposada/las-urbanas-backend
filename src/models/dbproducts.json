@@ -1,0 +1,116 @@
+[
+    {
+        "name":"Central Park Fries",
+        "category":"Entradas",
+        "description":"300 grs de papas gajo naturales cubiertas de queso amarillo y queso monterrey con tocino y jalapeño",
+        "price":150,
+        "image":"https://i.postimg.cc/Dwwbc0BW/IMG-1108.jpg"
+    },
+    {
+        "name":"Bryant Chips",
+        "category":"Entradas",
+        "description":"200 grs de papas caseras con cacahuate, limón, pepino, salsa picante y nuestra salsa secreta",
+        "price":120,
+        "image":"https://i.postimg.cc/gj42wq9g/IMG-1906.jpg"
+    },
+    {
+        "name":"Liberty Island Nachos",
+        "category":"Entradas",
+        "description":"250 grs de totopos bañados en queso amarillo con pico de gallo, chile curtido y crema.",
+        "price":130,
+        "image":"https://i.postimg.cc/3JnkW7Y3/IMG-1902.jpg"
+    },
+    {
+        "name":"Battery Olives",
+        "category":"Entradas",
+        "description":"190 grs de aceitunas bañadas en clamato, limón, salsa picante y nuestra salsa secreta",
+        "price":110,
+        "image":"https://i.postimg.cc/brqvNV5G/IMG-1905.jpg"
+    },
+    {
+        "name":"Empire State Burguer",
+        "category":"Hambruguesas",
+        "description":"Carne de sirloin, queso, tocino, aguacate, vegetales y aderezos.",
+        "price":150,
+        "image":"https://i.postimg.cc/05GMRD4M/IMG-1035.jpg"
+    },
+    {
+        "name":"New York Burguer",
+        "category":"Hambruguesas",
+        "description":"Carne de sirloin, tocino y aguacate bañados en queso amarillo y queso monterrey, vegetales y aderezos.",
+        "price":180,
+        "image":"https://i.postimg.cc/gkDZR8qF/IMG-1105.jpg"
+    },
+    {
+        "name":"Rockefeller Burguer",
+        "category":"Hambruguesas",
+        "description":"Camarón incrustado en una costra de queso, tocino, repollo morado, chipotle, aguacate y vegetales",
+        "price":180,
+        "image":"https://i.postimg.cc/Gpkr8JGv/IMG-8729.jpg"
+    },
+    {
+        "name":"Grand Central Burguer",
+        "category":"Hambruguesas",
+        "description":"Carne de sirloin con camarón incrustado, queso crema, queso monterrey, aguacate, tocino y vegetales.",
+        "price":180,
+        "image":"https://i.postimg.cc/4NJKJnC8/IMG-1558.jpg"
+    },
+    {
+        "name":"Big Met Boneless",
+        "category":"Boneless, alitas y camarones",
+        "description":"Cubitos de pechuga de pollo empanizada y bañada en la salsa de tu elección",
+        "price":150,
+        "image":"https://i.postimg.cc/0j58qM6D/IMG-3865.jpg"
+    },
+    {
+        "name":"Big Frick Alitas",
+        "category":"Boneless, alitas y camarones",
+        "description":"Alitas de pollo fritas y bañadas en la salsa de tu elección",
+        "price":150,
+        "image":"https://i.postimg.cc/TPm2jXML/IMG-1913.jpg"
+    },
+    {
+        "name":"Big Moma Shrimps",
+        "category":"Boneless, alitas y camarones",
+        "description":"Boneless de camarón emapanizados al momento y bañados en la salsa de tu elección",
+        "price":150,
+        "image":"https://i.postimg.cc/X7JVH560/IMG-2914.jpg"
+    },
+    {
+        "name":"Taco Manhattan",
+        "category":"Tacos",
+        "description":"Camarón guisado al ajillo montado en una costra de queso y tortilla de maíz, acompañado de aguacate, repollo y chipotle",
+        "price":60,
+        "image":"https://i.postimg.cc/Kz52WF51/IMG-2360.jpg"
+    },
+    {
+        "name":"Taco Staten Island",
+        "category":"Tacos",
+        "description":"Arrachera marinada, queso y aguacate",
+        "price":50,
+        "image":"https://i.postimg.cc/Kz52WF51/IMG-2360.jpg"
+    },
+    {
+        "name":"Taco Brooklyn",
+        "category":"Tacos",
+        "description":"Arrachera y camarón montados en una costra de queso y tortilla de maíz acompañado de aguacate",
+        "price":60,
+        "image":"https://i.postimg.cc/Kz52WF51/IMG-2360.jpg"
+    },
+    {
+        "name":"Limonada Natural",
+        "category":"Bebidas",        
+        "price":30        
+    },
+    {
+        "name":"Limonada Mineral",
+        "category":"Bebidas",        
+        "price":30        
+    },
+    {
+        "name":"Clamato",
+        "category":"Bebidas",        
+        "price":40        
+    }    
+]
+
