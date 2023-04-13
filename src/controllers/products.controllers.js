@@ -3,7 +3,7 @@ const Product = require('../models/Products')
 const getProduct = async (req,res) => {
     try {
         const category = req.query.category
-        let products
+        let products 
         if(category){
             products = await Product.find({category})
         } else {
@@ -16,6 +16,19 @@ const getProduct = async (req,res) => {
             msg:'Error al obtener los datos'
         })
     }
+}
+
+const getProductDetail = async (req,res) => {
+    const {_id} = req.params
+    let products
+        try {
+        products = await Product.find({ _id });
+        res.json({ products })
+    } catch(error) {
+        res.status(500).json({
+            msg:'Error al obtener los datos'
+        })
+    } 
 }
 
 const createProduct = async (req,res) => {
@@ -67,6 +80,7 @@ const deleteProduct = async (req,res) => {
 
 module.exports = {
     getProduct,
+    getProductDetail,
     createProduct,
     updateProduct,
     deleteProduct    
